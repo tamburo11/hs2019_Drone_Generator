@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    margin: 0px;
+    padding: 10px;
+    background-color: rgb(88, 88, 255); 
+    color: white;
+    -webkit-user-select: none;
+    
+}
+p {
+    margin: 0px;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    border-bottom: solid;
+    border-width: 1px;
+    -webkit-user-select: none;
+}
+#infoButton {
+    float: right;
+    font-size: 27px;
+}
+#infoText {
+    position: fixed;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    float: center;
+    text-align: justify;
+    line-height: 150%;
+    -webkit-user-select: none;
+}
+    
+
