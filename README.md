@@ -1,5 +1,9 @@
 # hs2019_Drone_Generator
 
+THE highSCORE FESTIVAL ( http://www.highscorefestival.com/ ) WEB DRONE GENERATOR
+
+created by Alberto Barberis ( http://www.albertobarberis.it/ )
+
 Dual Modulation Drone Generator is a polifonic drone generator which allows you to create synthetic textures directly on your browser. 
 
 It exploits both an AM (amplitude modulation) of sinusoidal waves by means of random triangular LFOs, and a double and reciprocal FM (frequency modulation) between pairs of oscillators. Click on the window to create a sinusoidal wave (symbolized by a circle). 
